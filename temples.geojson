@@ -1,0 +1,3569 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-08-20T17:10:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5311364",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "name": "White Ganesha Temple",
+        "religion": "hindu",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3271191,
+          10.9449968
+        ]
+      },
+      "id": "relation/5311364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5313674",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-06-15",
+        "layer": "-1",
+        "location": "surface",
+        "name": "Sarabheshwarer Temple",
+        "religion": "hindu",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4337946,
+          10.9902448
+        ]
+      },
+      "id": "relation/5313674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5313823",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "check_date": "2024-09-18",
+        "name": "Petti Kaliyamman temple",
+        "religion": "hindu",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.394065,
+          10.9872429
+        ]
+      },
+      "id": "relation/5313823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6668806",
+        "amenity": "place_of_worship",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "heritage:website": "https://whc.unesco.org/en/list/250/",
+        "mapillary": "815641735737330",
+        "name": "Brihadishwara Temple",
+        "name:en": "Brihadishwara Temple",
+        "name:kn": "ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ",
+        "name:ta": "தஞ்சைப் பெருவுடையார் கோயில்",
+        "religion": "hindu",
+        "tourism": "attraction",
+        "type": "building",
+        "whc:criteria": "(ii)(iii)",
+        "whc:extension": "2004",
+        "whc:inscription_date": "1987",
+        "wheelchair": "no",
+        "wikidata": "Q916943",
+        "wikipedia": "en:Brihadeeswarar Temple",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1314361,
+          10.7825788
+        ]
+      },
+      "id": "relation/6668806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8345043",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "heritage:website": "https://whc.unesco.org/en/list/250/",
+        "name": "Thirumigu Airavateswarar Temple",
+        "religion": "hindu",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "whc:criteria": "(ii)(iii)",
+        "whc:extension": "2004",
+        "whc:inscription_date": "1987",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3565521,
+          10.9484001
+        ]
+      },
+      "id": "relation/8345043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46419672",
+        "amenity": "place_of_worship",
+        "name": "Sengamala Amman Kovil",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1255589,
+          10.7721902
+        ]
+      },
+      "id": "way/46419672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50884600",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-09-18",
+        "name": "Thirumigu Ramaswami Temple",
+        "name:ta": "அருள்மிகு இராமஸ்வாமி திருக்கோயில்",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3736878,
+          10.9569597
+        ]
+      },
+      "id": "way/50884600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/52060981",
+        "amenity": "place_of_worship",
+        "name": "Venkatesa Perumal Kovil",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1324395,
+          10.7921527
+        ]
+      },
+      "id": "way/52060981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55904669",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "stone",
+        "height": "6",
+        "name": "Amman Sannithi",
+        "name:ml": "അമ്മൻ സന്നിധി",
+        "name:ta": "அம்மன் சந்நிதி",
+        "religion": "hindu",
+        "roof:material": "stone",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1319501,
+          10.7830615
+        ]
+      },
+      "id": "way/55904669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55904672",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "stone",
+        "height": "6",
+        "name": "Pillayar Sannithi",
+        "religion": "hindu",
+        "roof:material": "stone",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1309041,
+          10.782184
+        ]
+      },
+      "id": "way/55904672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55904674",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "stone",
+        "height": "6",
+        "name": "Karuvarur Sannithi",
+        "name:ml": "കരുവാരൂർ സന്നിധി",
+        "name:ta": "கருவாரூர் சந்நிதி",
+        "religion": "hindu",
+        "roof:material": "stone",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1307846,
+          10.7825267
+        ]
+      },
+      "id": "way/55904674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55904675",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "stone",
+        "height": "6",
+        "name": "Perumal temple",
+        "name:ml": "പെരുമാൾ ക്ഷേത്രം",
+        "name:ta": "பெருமாள் கோவில்",
+        "religion": "hindu",
+        "roof:material": "stone",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1311429,
+          10.7827641
+        ]
+      },
+      "id": "way/55904675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55904676",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "stone",
+        "height": "6",
+        "name": "Murugan Sannithi",
+        "name:ml": "മുരുകൻ സന്നിധി",
+        "name:ta": "முருகன் சந்நிதி",
+        "religion": "hindu",
+        "roof:material": "stone",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1308195,
+          10.7828255
+        ]
+      },
+      "id": "way/55904676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55904677",
+        "amenity": "place_of_worship",
+        "building": "roof",
+        "building:material": "stone",
+        "height": "8",
+        "name": "Nandi",
+        "religion": "hindu",
+        "roof:material": "stone",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1321708,
+          10.7828722
+        ]
+      },
+      "id": "way/55904677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104110375",
+        "amenity": "place_of_worship",
+        "name": "Konkaneshwar Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1298827,
+          10.7905574
+        ]
+      },
+      "id": "way/104110375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104110382",
+        "amenity": "place_of_worship",
+        "denomination": "vaishnavism",
+        "name": "Tanjai Mamani Koil DivyaDesam",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1386801,
+          10.8156864
+        ]
+      },
+      "id": "way/104110382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104683767",
+        "amenity": "place_of_worship",
+        "name": "The Panchanatheesvarar (Aiyarappar) temple",
+        "name:ml": "തിരുവയ്യാർ പഞ്ചനാദീശ്വരർ ക്ഷേത്രം",
+        "name:ta": "திருவையாறு அருள்மிகு ஐயாறப்பர் திருக்கோயில்",
+        "religion": "hindu",
+        "wikidata": "Q4699396",
+        "wikimedia_commons": "Category:Aiyarappar Temple",
+        "wikipedia": "en:Aiyarappar Temple",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1054092,
+          10.8809391
+        ]
+      },
+      "id": "way/104683767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120390896",
+        "alt_name": "Tanjai Periya Kovil",
+        "alt_name:en": "Big temple",
+        "alt_name:eo": "templo RajaRajeswara",
+        "alt_name:es": "templo RajaRajeswara",
+        "alt_name:fr": "temple de Râjarâjeshvaram",
+        "alt_name:hr": "Rajarajeswaram",
+        "alt_name:id": "Kuil Rajarajeswara",
+        "alt_name:ja": "ラージャラージェーシュヴァラ寺院",
+        "alt_name:ka": "ბრიჰადეესვარარის ტაძარი",
+        "alt_name:kn": "ಬೃಹದೀಶ್ವರ್ ಟೆಂಪಲ್",
+        "alt_name:mai": "बृहदीश्वर मन्दिर",
+        "alt_name:ml": "തിരുവുടയാർ കോവിൽ",
+        "alt_name:new": "बृहदीश्वर",
+        "alt_name:pt": "Peruvudaiyar Koyil",
+        "alt_name:sh": "Rajarajeswaram",
+        "alt_name:ta": "தஞ்சைப் பெரிய கோயில்",
+        "alt_name:zh": "罗阇罗阇希瓦拉神庙",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "historic": "archaeological_site",
+        "historic:period": "1002",
+        "name": "தஞ்சைப் பெருவுடையார் கோயில் Brihadeeswara Temple",
+        "name:de": "Brihadishvara-Tempel",
+        "name:en": "Brihadishwara Temple",
+        "name:eo": "templo Brihadisvara",
+        "name:es": "templo Brihadisvara",
+        "name:fr": "temple de Brihadesvara",
+        "name:hi": "बृहदेश्वर मन्दिर",
+        "name:hr": "Brihadishwara",
+        "name:id": "Kuil Brihadiswara",
+        "name:ja": "ブリハディーシュヴァラ寺院",
+        "name:ka": "ბრიჰადეშვარას ტაძარი",
+        "name:kn": "ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ",
+        "name:ko": "브리하디스와라 사원",
+        "name:mai": "बृहदेश्वर मन्दिर",
+        "name:ml": "ബൃഹദീശ്വരക്ഷേത്രം",
+        "name:new": "बृहदेश्वर",
+        "name:nl": "Brihadisvaratempel",
+        "name:nn": "Brihadisjvara-tempelet",
+        "name:or": "ବୃହଦେଶ୍ଵର ମନ୍ଦିର",
+        "name:pt": "templo Brihadeeswarar",
+        "name:ro": "Templul Brihadeeswarar",
+        "name:ru": "Брахадисва́ра",
+        "name:sa": "बृहदीश्वरदेवालयः",
+        "name:sh": "Hram Brihadishwara",
+        "name:sr": "Брихадесварар храм",
+        "name:sv": "Brihadisvaratemplet",
+        "name:ta": "தஞ்சைப் பெருவுடையார் கோயில்",
+        "name:te": "బృహదీశ్వర ఆలయం",
+        "name:uk": "Брахідеешварар",
+        "name:zh": "布里哈迪希瓦拉神庙",
+        "religion": "hindu",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wikidata": "Q916943",
+        "wikimedia_commons": "Category:Brihadisvara Temple",
+        "wikipedia": "ta:தஞ்சைப் பெருவுடையார் கோயில்",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1313962,
+          10.7825788
+        ]
+      },
+      "id": "way/120390896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131467052",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "thittai Dakshinamurthy temple",
+        "designation": "Thenkudi thittai",
+        "name": "Thittai Guru Temple Tank",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1737241,
+          10.8376357
+        ]
+      },
+      "id": "way/131467052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135174643",
+        "amenity": "place_of_worship",
+        "check_date": "2025-06-15",
+        "denomination": "shaivism",
+        "name": "Kampaheswarar Temple",
+        "religion": "hindu",
+        "wikidata": "Q6359089",
+        "wikipedia": "en:Kampaheswarar Temple, Thirubuvanam",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.433834,
+          10.9902004
+        ]
+      },
+      "id": "way/135174643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157741490",
+        "amenity": "place_of_worship",
+        "name": "Punnainaloor Mariamman Kovil",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1898661,
+          10.7853386
+        ]
+      },
+      "id": "way/157741490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157745949",
+        "amenity": "place_of_worship",
+        "denomination": "Navagraha kshetram",
+        "name": "Alangudi Guru Temple (Apathsahayeshwarar temple)",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.41078,
+          10.8300682
+        ]
+      },
+      "id": "way/157745949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157746097",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4157329,
+          10.7714747
+        ]
+      },
+      "id": "way/157746097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157746098",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4163604,
+          10.7735098
+        ]
+      },
+      "id": "way/157746098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175569543",
+        "amenity": "place_of_worship",
+        "name": "Thirumigu Chakkarapani Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3719211,
+          10.9633545
+        ]
+      },
+      "id": "way/175569543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175569547",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "denomination": "shavism",
+        "name": "Arulmigu Aadhi Kumbeswaraswamy Temple",
+        "name:ta": "அருள்மிகு ஆதி கும்பேசுவரசுவாமி திருக்கோயில்",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3710624,
+          10.9584538
+        ]
+      },
+      "id": "way/175569547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175569620",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4041912,
+          10.9248468
+        ]
+      },
+      "id": "way/175569620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175569621",
+        "addr:street": "Nagore - Nannilam - Nachiyarkoil Road",
+        "amenity": "place_of_worship",
+        "denomination": "vaishnavism",
+        "name": "Thirunarayur Nambi Temple (Nachiar Koil)",
+        "religion": "hindu",
+        "wikidata": "Q13651696",
+        "wikipedia": "en:Nachiyar Koil",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4452664,
+          10.9155565
+        ]
+      },
+      "id": "way/175569621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175569625",
+        "amenity": "place_of_worship",
+        "denomination": "shavism",
+        "name": "Sri Naganatha Swamy Temple",
+        "religion": "hindu",
+        "service_times": "05:30 to 22:00",
+        "wikidata": "Q7283571",
+        "wikipedia": "en:Tirunageswaram Naganathar Temple",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4288423,
+          10.9633792
+        ]
+      },
+      "id": "way/175569625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175569626",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4265493,
+          10.9728275
+        ]
+      },
+      "id": "way/175569626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175569627",
+        "amenity": "place_of_worship",
+        "check_date": "2025-03-24",
+        "name": "Sri Oppilayappan temple",
+        "note": "Divya Desam",
+        "religion": "hindu",
+        "wikidata": "Q7899087",
+        "wikipedia": "en:Uppiliappan temple",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4316577,
+          10.9614575
+        ]
+      },
+      "id": "way/175569627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202322567",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2033771,
+          10.9252139
+        ]
+      },
+      "id": "way/202322567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202322568",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1304877,
+          10.8883171
+        ]
+      },
+      "id": "way/202322568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202322570",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1378668,
+          10.8757309
+        ]
+      },
+      "id": "way/202322570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202322571",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1972134,
+          10.9221491
+        ]
+      },
+      "id": "way/202322571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202322572",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "name": "Arulmigu Hara Saabha Vimocchana Perumal Kovil",
+        "name:ta": "அருள்மிகு ஹர சாப விமோசனப் பெருமாள் கோவில்",
+        "religion": "hindu",
+        "wikidata": "Q7585834",
+        "wikipedia": "en:Hara Saabha Vimocchana Perumal Temple",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1085896,
+          10.8601399
+        ]
+      },
+      "id": "way/202322572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202414298",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "name": "Arulmigu Kailasanathar Swami Thirukoyil",
+        "name:ta": "அருள்மிகு கைலாசநாதர் சுவாமி திருக்கோயில்",
+        "religion": "hindu",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1035134,
+          10.935359
+        ]
+      },
+      "id": "way/202414298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204433081",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4418535,
+          10.9213672
+        ]
+      },
+      "id": "way/204433081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274374544",
+        "addr:city": "Keezhakovilpathu",
+        "addr:housenumber": "Sivan Kovil",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Shri. Karavandheeswarar temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3004468,
+          10.7881343
+        ]
+      },
+      "id": "way/274374544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274394604",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Ayyanar Temple",
+        "name:ta": "ஐய்யனார் கோயில்",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3027809,
+          10.7927943
+        ]
+      },
+      "id": "way/274394604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274953944",
+        "amenity": "place_of_worship",
+        "baby_feeding": "room",
+        "building": "yes",
+        "check_date": "2024-04-03",
+        "email": "eomullaivananathartkr@gmail.com",
+        "name": "Arulmigu Garbaratchambigai Samedha Mullaivananathaswamy Temple, Thirukkarugavur",
+        "name:ta": "அருள்மிகு கர்ப்பரட்சாம்பிகை சமேத முல்லைவனநாத சுவாமி திருக்கோயில், திருக்கருகாவூர்",
+        "religion": "hindu",
+        "source": "survey",
+        "website": "https://garbaratchambigaitkr.hrce.tn.gov.in/",
+        "wheelchair": "limited",
+        "wikidata": "Q5522028",
+        "wikipedia": "en:Garbharakshambigai Temple",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.276142,
+          10.8691582
+        ]
+      },
+      "id": "way/274953944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274953946",
+        "amenity": "place_of_worship",
+        "name": "Thirumigu Patteeswaram Durgai Temple",
+        "opening_hours": "6:00 - 12:00",
+        "religion": "hindu",
+        "wikidata": "Q20558861",
+        "wikipedia": "en:Durgai Amman Temple, Patteeswaram",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3450243,
+          10.9246803
+        ]
+      },
+      "id": "way/274953946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/350087632",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.442813,
+          10.9182526
+        ]
+      },
+      "id": "way/350087632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/350089891",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4297081,
+          10.9301368
+        ]
+      },
+      "id": "way/350089891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/354486777",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "denomination": "vaishnavism",
+        "name": "Oppliappan Temple",
+        "religion": "hindu",
+        "wheelchair": "yes",
+        "wikidata": "Q7899087",
+        "wikipedia": "en:Oppiliappan temple",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4316149,
+          10.9613615
+        ]
+      },
+      "id": "way/354486777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/354488252",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4285737,
+          10.9608476
+        ]
+      },
+      "id": "way/354488252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355646064",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.430602,
+          10.9622765
+        ]
+      },
+      "id": "way/355646064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355646071",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "name": "Vellai Vinayagar  Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.431909,
+          10.9676731
+        ]
+      },
+      "id": "way/355646071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355738303",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3259328,
+          10.9568449
+        ]
+      },
+      "id": "way/355738303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355738318",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Shri Soundarrajaperumal Kovil",
+        "name:ta": "ஶ்ரீ சௌந்தர்ராஜபெருமாள் கோவில்",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3013806,
+          10.9395018
+        ]
+      },
+      "id": "way/355738318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355880145",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4211993,
+          10.9700599
+        ]
+      },
+      "id": "way/355880145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355881571",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4324049,
+          10.9694287
+        ]
+      },
+      "id": "way/355881571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355881573",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4333075,
+          10.9698211
+        ]
+      },
+      "id": "way/355881573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360453735",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Thingalur Chandran Koil",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1305552,
+          10.8976587
+        ]
+      },
+      "id": "way/360453735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/372543818",
+        "amenity": "place_of_worship",
+        "denomination": "shaktism",
+        "name": "Pratyankara Devi Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4331531,
+          10.9540755
+        ]
+      },
+      "id": "way/372543818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375105668",
+        "amenity": "place_of_worship",
+        "name": "Nageshwara Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3780991,
+          10.9586013
+        ]
+      },
+      "id": "way/375105668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375251459",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "name": "Giant granary, Tiruppallathurai",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2704848,
+          10.9309106
+        ]
+      },
+      "id": "way/375251459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375251461",
+        "amenity": "place_of_worship",
+        "denomination": "shaivism",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2637548,
+          10.9274826
+        ]
+      },
+      "id": "way/375251461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375648621",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2997763,
+          10.92515
+        ]
+      },
+      "id": "way/375648621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375648624",
+        "amenity": "place_of_worship",
+        "name": "Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2997691,
+          10.9251553
+        ]
+      },
+      "id": "way/375648624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/387400119",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name": "Arulmigu Adi Kambatta Viswanathar Swamy Thirukoyil",
+        "name:ta": "அருள்மிகு ஆதி கம்பட்ட விஸ்வநாதர் சுவாமி திருக்கோயில்",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3663729,
+          10.9561606
+        ]
+      },
+      "id": "way/387400119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390194694",
+        "amenity": "place_of_worship",
+        "barrier": "wall",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3613778,
+          10.9238377
+        ]
+      },
+      "id": "way/390194694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482317687",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Murugan Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1077987,
+          10.8801688
+        ]
+      },
+      "id": "way/482317687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482317697",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-07-28",
+        "name": "Sri Agathiyar Lobamuthrai Temple",
+        "religion": "hindu",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.108969,
+          10.8825732
+        ]
+      },
+      "id": "way/482317697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482317698",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Hanumar Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1082873,
+          10.8825312
+        ]
+      },
+      "id": "way/482317698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482317723",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sri Abheeshta Varutha Mahaganapathi Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1037545,
+          10.8785207
+        ]
+      },
+      "id": "way/482317723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/524617911",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-02",
+        "name": "Arulmigu Brahmakandeeswarar Temple",
+        "name:ta": "அருள்மிகு மங்களாம்பிகா சமேத ஶ்ரீ பிரம்மசிரக்கண்டீஸ்வர சுவாமி திருக்கோயில்",
+        "religion": "hindu",
+        "source": "survey",
+        "wikidata": "Q7785284",
+        "wikipedia": "en:Kandeeswarar Temple, Kandiyur",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1092755,
+          10.8617552
+        ]
+      },
+      "id": "way/524617911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/541299896",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Shivan temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2118005,
+          10.872623
+        ]
+      },
+      "id": "way/541299896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/541299897",
+        "addr:city": "Purasakkudi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Vinayagar Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2102695,
+          10.8720753
+        ]
+      },
+      "id": "way/541299897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/542918498",
+        "amenity": "place_of_worship",
+        "name": "Vinayagar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.134633,
+          10.7865654
+        ]
+      },
+      "id": "node/542918498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591289020",
+        "amenity": "place_of_worship",
+        "denomination": "shaivism",
+        "name": "Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3034625,
+          10.9715124
+        ]
+      },
+      "id": "way/591289020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592309739",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sri Rajagopalaswamy Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1332243,
+          10.7944853
+        ]
+      },
+      "id": "way/592309739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592800429",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "name": "Devanayaki Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.356809,
+          10.9492971
+        ]
+      },
+      "id": "way/592800429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648866730",
+        "addr:city": "Thanjavur",
+        "addr:postcode": "613003",
+        "addr:street": "Thittai - Dharasuram Road",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "saivam",
+        "name": "Thittai Guru Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1727031,
+          10.8375148
+        ]
+      },
+      "id": "way/648866730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/649547656",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "vaishnavism",
+        "name": "Kothandaramar  koil",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1875805,
+          10.7864201
+        ]
+      },
+      "id": "way/649547656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700379404",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.326931,
+          10.8987869
+        ]
+      },
+      "id": "way/700379404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/757306738",
+        "amenity": "place_of_worship",
+        "denomination": "vaishnavism",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1372894,
+          10.8168644
+        ]
+      },
+      "id": "way/757306738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/757306739",
+        "amenity": "place_of_worship",
+        "denomination": "vaishnavism",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.135682,
+          10.8178734
+        ]
+      },
+      "id": "way/757306739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1019297844",
+        "addr:city": "Thanjavur (தஞ்சாவூர் )",
+        "addr:street": "Thanjavur-Kumbakonam",
+        "amenity": "place_of_worship",
+        "name": "Kodi Amman Kovil",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1386242,
+          10.8122351
+        ]
+      },
+      "id": "node/1019297844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1070609251",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "vaishnavism",
+        "name": "Anjeneya",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.187771,
+          10.7865437
+        ]
+      },
+      "id": "way/1070609251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863122",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2479923,
+          10.9367686
+        ]
+      },
+      "id": "way/1078863122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863124",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2072592,
+          10.92156
+        ]
+      },
+      "id": "way/1078863124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863125",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1727276,
+          10.9211204
+        ]
+      },
+      "id": "way/1078863125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863127",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.157521,
+          10.8781997
+        ]
+      },
+      "id": "way/1078863127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863128",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.160139,
+          10.8880122
+        ]
+      },
+      "id": "way/1078863128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863129",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1898061,
+          10.9332043
+        ]
+      },
+      "id": "way/1078863129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863132",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1682002,
+          10.9291227
+        ]
+      },
+      "id": "way/1078863132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863140",
+        "addr:city": "Ganapathi Agrahaaram",
+        "amenity": "place_of_worship",
+        "name": "MahaGanapathi Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1815965,
+          10.9177747
+        ]
+      },
+      "id": "way/1078863140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863143",
+        "amenity": "place_of_worship",
+        "check_date": "2024-07-28",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1055293,
+          10.9200126
+        ]
+      },
+      "id": "way/1078863143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078863145",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1514863,
+          10.9298683
+        ]
+      },
+      "id": "way/1078863145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316086686",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2048133,
+          10.7709043
+        ]
+      },
+      "id": "way/1316086686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316222817",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1986089,
+          10.7655698
+        ]
+      },
+      "id": "way/1316222817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418114804",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Balavinayakar Temple",
+        "name:ta": "பாலவிநாயகர் ஆலயம்",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4284163,
+          10.992418
+        ]
+      },
+      "id": "way/1418114804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418125703",
+        "addr:street": "காத்தாயி அம்மன் கோயில் தெ",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Kaththaayi Amman Temple",
+        "name:ta": "காத்தாயி அம்மன் ஆலயம்",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.427149,
+          10.9907776
+        ]
+      },
+      "id": "way/1418125703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421209584",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Bathala Maha Mariyamman Temple",
+        "name:ta": "பாதாள மகா மாரியம்மன் ஆலய",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4352976,
+          10.9930764
+        ]
+      },
+      "id": "way/1421209584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421345380",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Vinayagar Temple",
+        "name:ta": "விநாயகர் கோவி",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4326961,
+          10.9928083
+        ]
+      },
+      "id": "way/1421345380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421360673",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "வாயுமூலை ஸ்ரீ ஆஞ்சநேயர் கோவில்",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4323825,
+          10.9920463
+        ]
+      },
+      "id": "way/1421360673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421362707",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Karpaga vinayagar temple",
+        "name:ta": "கற்பக விநாயகர் ஆலய",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.432282,
+          10.9917848
+        ]
+      },
+      "id": "way/1421362707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1458518758",
+        "amenity": "place_of_worship",
+        "check_date": "2025-03-24",
+        "denomination": "Navagraha temple",
+        "name": "Thirunaageswaram - Rahu temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4292631,
+          10.963614
+        ]
+      },
+      "id": "node/1458518758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464777096",
+        "addr:housename": "Vinayagar Kovil",
+        "addr:postcode": "613007",
+        "addr:street": "LIC Colony",
+        "alt_name": "Vinayagar Temple",
+        "amenity": "place_of_worship",
+        "name": "Vinayagar kovil",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1197114,
+          10.7735022
+        ]
+      },
+      "id": "node/1464777096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1465088384",
+        "amenity": "place_of_worship",
+        "name": "Anjaneya temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.139465,
+          10.7798993
+        ]
+      },
+      "id": "node/1465088384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1465367310",
+        "amenity": "place_of_worship",
+        "name": "Thyagaraja samathy",
+        "religion": "hindu",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.109604,
+          10.8796972
+        ]
+      },
+      "id": "node/1465367310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1466683440",
+        "amenity": "place_of_worship",
+        "name": "anjaneya temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1292308,
+          10.793711
+        ]
+      },
+      "id": "node/1466683440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1466683441",
+        "amenity": "place_of_worship",
+        "name": "Kamatchi Amman Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1293113,
+          10.7930945
+        ]
+      },
+      "id": "node/1466683441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473192191",
+        "amenity": "place_of_worship",
+        "name": "Thirumigu Swamimalai Murugan temple",
+        "religion": "hindu",
+        "wheelchair": "no",
+        "wikidata": "Q7653286",
+        "wikipedia": "en:Swaminatha Swamy Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3268653,
+          10.9561623
+        ]
+      },
+      "id": "node/1473192191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2153276862",
+        "alt_name": "Vellai Vinayagar Koil",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "name": "Thirumigu Swetha Vinayagar Temple",
+        "religion": "hindu",
+        "source": "survey",
+        "wikidata": "Q7655926",
+        "wikipedia": "en:Kabartheeswarar Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3271561,
+          10.9449787
+        ]
+      },
+      "id": "node/2153276862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271373155",
+        "amenity": "place_of_worship",
+        "name": "Thirumigu Kasi Vishwanathar Koil",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3823551,
+          10.9566658
+        ]
+      },
+      "id": "node/2271373155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356058344",
+        "amenity": "place_of_worship",
+        "name": "St. Mary Cathedral",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3880993,
+          10.956486
+        ]
+      },
+      "id": "node/2356058344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2732008496",
+        "amenity": "place_of_worship",
+        "denomination": "shaktism",
+        "designation": "Hindu Temple",
+        "name": "Shri Angala Parameshwari Amman Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4466473,
+          10.9929614
+        ]
+      },
+      "id": "node/2732008496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3625231412",
+        "amenity": "place_of_worship",
+        "name": "Shiva Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.138167,
+          10.7906639
+        ]
+      },
+      "id": "node/3625231412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4717358899",
+        "amenity": "place_of_worship",
+        "religion": "hindu",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4177449,
+          10.7457947
+        ]
+      },
+      "id": "node/4717358899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4951080314",
+        "amenity": "place_of_worship",
+        "name": "Arulmigu Ramalinga Swamy Thirukovil",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2574278,
+          10.9249977
+        ]
+      },
+      "id": "node/4951080314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4951080831",
+        "amenity": "place_of_worship",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1541087,
+          10.847527
+        ]
+      },
+      "id": "node/4951080831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4951080834",
+        "amenity": "place_of_worship",
+        "name": "Shri Ooradichi Narayani Amman Aalayam",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1649789,
+          10.8662469
+        ]
+      },
+      "id": "node/4951080834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4951080852",
+        "addr:city": "Chakkarapalli",
+        "addr:postcode": "614211",
+        "addr:street": "North Street",
+        "amenity": "place_of_worship",
+        "name": "Shri Devanayaki Ambal Samodha Sri Chakkaravakesavarar Thirukovil",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1970928,
+          10.9008509
+        ]
+      },
+      "id": "node/4951080852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5230804252",
+        "addr:city": "Ayyampettai",
+        "addr:postcode": "614201",
+        "addr:street": "Agrahaaram Street",
+        "amenity": "place_of_worship",
+        "name": "Anjaneyar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.186147,
+          10.8964982
+        ]
+      },
+      "id": "node/5230804252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232464950",
+        "amenity": "place_of_worship",
+        "name": "Vinayagar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1929156,
+          10.8995292
+        ]
+      },
+      "id": "node/5232464950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232472542",
+        "addr:city": "Ayyampettai",
+        "addr:postcode": "614201",
+        "addr:street": "Thanjavur-Kumbakonam Road",
+        "amenity": "place_of_worship",
+        "name": "Shivan Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1951783,
+          10.900666
+        ]
+      },
+      "id": "node/5232472542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5405287090",
+        "amenity": "place_of_worship",
+        "name": "Thirumigu Uchi Pillaiyar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3768617,
+          10.9590584
+        ]
+      },
+      "id": "node/5405287090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5626065982",
+        "addr:full": "Rahman Street, East Valoothoor",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "denomination": "vaishnavism",
+        "description": "Ambareesha Varadaraajar Temple",
+        "name": "Ambareesha Varadaraajar Temple",
+        "opening_hours": "Mo-Su 05:30-08:30",
+        "religion": "hindu",
+        "shop": "religion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2155083,
+          10.9062001
+        ]
+      },
+      "id": "node/5626065982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5733980429",
+        "amenity": "place_of_worship",
+        "name": "Sri Karumbairam Vinayagar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3697867,
+          10.9619507
+        ]
+      },
+      "id": "node/5733980429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130394127",
+        "addr:city": "Kumbakonam",
+        "addr:postcode": "612001",
+        "addr:street": "Bakthapuri Street",
+        "amenity": "place_of_worship",
+        "denomination": "hindu",
+        "name": "Thiru Meenakshi Sundareshwarar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.382323,
+          10.9688693
+        ]
+      },
+      "id": "node/6130394127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130394723",
+        "addr:city": "Kumbakaoanam",
+        "addr:postcode": "612001",
+        "addr:street": "Court Road",
+        "amenity": "place_of_worship",
+        "denomination": "hindu",
+        "name": "Thirumigu Sundaramoorthy Vinayagar Ayyappan Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3844609,
+          10.9695049
+        ]
+      },
+      "id": "node/6130394723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130398417",
+        "addr:city": "THANJAVUR",
+        "addr:postcode": "612001",
+        "addr:street": "Banadurai East Street",
+        "amenity": "place_of_worship",
+        "denomination": "hindu",
+        "name": "Thirumigu Siddhi Vinayagar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3835435,
+          10.9644343
+        ]
+      },
+      "id": "node/6130398417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130399982",
+        "addr:city": "THANJAVUR",
+        "addr:postcode": "612001",
+        "addr:street": "Banadurai East Street",
+        "amenity": "place_of_worship",
+        "denomination": "hindu",
+        "name": "Thirumigu Banapureeswarar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3825682,
+          10.9644104
+        ]
+      },
+      "id": "node/6130399982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130438755",
+        "addr:city": "Kumbakonam",
+        "addr:postcode": "612001",
+        "addr:street": "Town Hall Road",
+        "amenity": "place_of_worship",
+        "denomination": "hindu",
+        "name": "Thirumigu Samayapuram Mariamman Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3787218,
+          10.9609365
+        ]
+      },
+      "id": "node/6130438755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130450934",
+        "amenity": "place_of_worship",
+        "denomination": "hindu",
+        "name": "Thirumigu ThiruSakthi Mutram Shiva Temple",
+        "religion": "hindu",
+        "wikidata": "Q16313533",
+        "wikipedia": "en:Sakthivanesvara Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3436863,
+          10.92669
+        ]
+      },
+      "id": "node/6130450934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130453662",
+        "addr:city": "THANJAVUR",
+        "addr:postcode": "612001",
+        "addr:street": "Mahamaham Tank",
+        "amenity": "place_of_worship",
+        "denomination": "hindu",
+        "name": "Thirumigu Abimugeshwarar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3827725,
+          10.9553877
+        ]
+      },
+      "id": "node/6130453662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130455138",
+        "addr:city": "THANJAVUR",
+        "addr:postcode": "612001",
+        "addr:street": "Mahamaham Tank",
+        "amenity": "place_of_worship",
+        "denomination": "hindu",
+        "name": "Thirumigu Saibaba Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3811507,
+          10.9560367
+        ]
+      },
+      "id": "node/6130455138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597912946",
+        "amenity": "place_of_worship",
+        "name": "Thirumigu Airavateswarar Temple",
+        "name:ml": "ഐരാവതേശ്വര ക്ഷേത്രം",
+        "name:ta": "தாராசுரம் ஐராவதேஸ்வரர் கோயில்",
+        "religion": "hindu",
+        "wikidata": "Q3437182",
+        "wikipedia": "en:Airavatesvara Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3566069,
+          10.9483914
+        ]
+      },
+      "id": "node/6597912946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7343363604",
+        "amenity": "place_of_worship",
+        "name": "Padakatti Amman Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3957947,
+          10.8923902
+        ]
+      },
+      "id": "node/7343363604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7345786352",
+        "amenity": "place_of_worship",
+        "name": "Tillaiyambur Sivan Temple",
+        "name:ta": "தில்லையம்பூர் சிவன் கோவில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3812986,
+          10.8988836
+        ]
+      },
+      "id": "node/7345786352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7345786354",
+        "amenity": "place_of_worship",
+        "name": "Tillaiyambur Vinayakar Temple",
+        "name:ta": "தில்லையம்பூர் விநாயகர் கொவில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3810419,
+          10.8969059
+        ]
+      },
+      "id": "node/7345786354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7345786355",
+        "amenity": "place_of_worship",
+        "name": "Tillaiyambur Venugopalaswamy Temple",
+        "name:ta": "தில்லையம்பூர் வேணுகொபாலசுவாமி கொவில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3792056,
+          10.8979043
+        ]
+      },
+      "id": "node/7345786355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297000",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4279293,
+          10.926578
+        ]
+      },
+      "id": "node/11782297000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297002",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3477898,
+          10.9544292
+        ]
+      },
+      "id": "node/11782297002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297004",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3306878,
+          10.9450204
+        ]
+      },
+      "id": "node/11782297004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297005",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3268904,
+          10.9432837
+        ]
+      },
+      "id": "node/11782297005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297006",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.306965,
+          10.9406255
+        ]
+      },
+      "id": "node/11782297006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297007",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2749834,
+          10.9316105
+        ]
+      },
+      "id": "node/11782297007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297014",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4110427,
+          10.9563006
+        ]
+      },
+      "id": "node/11782297014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297015",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4290738,
+          10.9286614
+        ]
+      },
+      "id": "node/11782297015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297016",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4287387,
+          10.9285561
+        ]
+      },
+      "id": "node/11782297016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297018",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4230171,
+          10.9245028
+        ]
+      },
+      "id": "node/11782297018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297019",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.416121,
+          10.9243385
+        ]
+      },
+      "id": "node/11782297019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297020",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "name:ta": "கருவளர்ச்சேரி கருவளர்த்த நாயகி ஸ்தளம்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.416121,
+          10.9245293
+        ]
+      },
+      "id": "node/11782297020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297021",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4076827,
+          10.924386
+        ]
+      },
+      "id": "node/11782297021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297022",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4008417,
+          10.9246766
+        ]
+      },
+      "id": "node/11782297022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297023",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3923407,
+          10.923126
+        ]
+      },
+      "id": "node/11782297023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297024",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3857322,
+          10.9246863
+        ]
+      },
+      "id": "node/11782297024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297025",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3848556,
+          10.9284638
+        ]
+      },
+      "id": "node/11782297025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297026",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3683282,
+          10.9278846
+        ]
+      },
+      "id": "node/11782297026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297027",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3602328,
+          10.9278561
+        ]
+      },
+      "id": "node/11782297027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297030",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3419952,
+          10.925509
+        ]
+      },
+      "id": "node/11782297030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297031",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3361466,
+          10.9104147
+        ]
+      },
+      "id": "node/11782297031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297032",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "name:ta": "ஶ்ரீ செல்வ விநாயகர் ஆலயம்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3347981,
+          10.909021
+        ]
+      },
+      "id": "node/11782297032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297034",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3294266,
+          10.9017546
+        ]
+      },
+      "id": "node/11782297034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297037",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2903709,
+          10.8793507
+        ]
+      },
+      "id": "node/11782297037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297038",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.269725,
+          10.8941379
+        ]
+      },
+      "id": "node/11782297038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297039",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2686096,
+          10.8967586
+        ]
+      },
+      "id": "node/11782297039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11782297044",
+        "amenity": "place_of_worship",
+        "check_date": "2024-04-03",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3221358,
+          10.8963462
+        ]
+      },
+      "id": "node/11782297044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11831919106",
+        "amenity": "place_of_worship",
+        "name": "Thirumigu Theanupureshwarar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3445419,
+          10.9246742
+        ]
+      },
+      "id": "node/11831919106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11831919107",
+        "amenity": "place_of_worship",
+        "name": "Arulmigu Somanathar Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3613676,
+          10.9238527
+        ]
+      },
+      "id": "node/11831919107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11831919108",
+        "amenity": "place_of_worship",
+        "name": "Pazhayarai Vadathalai Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3533733,
+          10.9273799
+        ]
+      },
+      "id": "node/11831919108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12078431207",
+        "amenity": "place_of_worship",
+        "check_date": "2024-07-28",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1035256,
+          10.9199261
+        ]
+      },
+      "id": "node/12078431207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12078431213",
+        "amenity": "place_of_worship",
+        "check_date": "2024-07-28",
+        "religion": "hindu",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1034068,
+          10.9007611
+        ]
+      },
+      "id": "node/12078431213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12078431214",
+        "amenity": "place_of_worship",
+        "check_date": "2024-07-28",
+        "religion": "hindu",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1049005,
+          10.8932499
+        ]
+      },
+      "id": "node/12078431214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065859",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-20",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3804126,
+          10.9662352
+        ]
+      },
+      "id": "node/12187065859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065861",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-20",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3791081,
+          10.9707863
+        ]
+      },
+      "id": "node/12187065861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065862",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-20",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3801971,
+          10.9721306
+        ]
+      },
+      "id": "node/12187065862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065869",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "ஶ்ரீ வெள்ளம் பிரளயம் காத்த விநாயகர் ஆலயம்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3649311,
+          10.9543404
+        ]
+      },
+      "id": "node/12187065869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065870",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "அருள்மிகு ஶ்ரீ மதுராந்த காளியம்மன் கோயில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.366717,
+          10.953654
+        ]
+      },
+      "id": "node/12187065870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065872",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "ஶ்ரீ மலையாள மாரியம்மன் ஆலயம்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3658727,
+          10.9569575
+        ]
+      },
+      "id": "node/12187065872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065874",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3657186,
+          10.9562796
+        ]
+      },
+      "id": "node/12187065874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065876",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "அருள்மிகு ஶ்ரீ ஆதி காமாட்சி அம்மன் திருக்கோயில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3657313,
+          10.9556889
+        ]
+      },
+      "id": "node/12187065876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065879",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "ஶ்ரீ படிதாண்டா பரமேஸ்வரி ஆலயம்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3706368,
+          10.9578904
+        ]
+      },
+      "id": "node/12187065879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065883",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "ஶ்ரீ தஸாவதாரப் பெருமாள் திருக்கோயில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3730894,
+          10.9596567
+        ]
+      },
+      "id": "node/12187065883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065888",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "அருள்மிகு யானையடி அய்யனார் திருக்கோயில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3783258,
+          10.9628821
+        ]
+      },
+      "id": "node/12187065888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065891",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3781369,
+          10.9630262
+        ]
+      },
+      "id": "node/12187065891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065896",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "அருள்மிகு பகவத் விநாயகர் ஆலயம்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3776361,
+          10.9672687
+        ]
+      },
+      "id": "node/12187065896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187065898",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "ஶ்ரீ ஆதிவ்யாதி ஹர ஶ்ரீ ஆஞ்சநேயர் திருக்கோவில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3794541,
+          10.968195
+        ]
+      },
+      "id": "node/12187065898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187070907",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "name:ta": "ஸ்ரீ காத்தாயி அம்மன் ஆலயம்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3828461,
+          10.9613243
+        ]
+      },
+      "id": "node/12187070907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187070914",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3918673,
+          10.9861198
+        ]
+      },
+      "id": "node/12187070914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187070915",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3927497,
+          10.9872859
+        ]
+      },
+      "id": "node/12187070915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12187070921",
+        "amenity": "place_of_worship",
+        "check_date": "2024-09-18",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3651789,
+          10.9556423
+        ]
+      },
+      "id": "node/12187070921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13061668841",
+        "amenity": "place_of_worship",
+        "name": "vayumoolai anchaneyar koil",
+        "name:ta": "வாயுமூலை ஸ்ரீ ராமபக்த ஆஞ்சனேயர் கோவில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4323728,
+          10.992044
+        ]
+      },
+      "id": "node/13061668841"
+    }
+  ]
+}
